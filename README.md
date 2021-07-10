@@ -1,5 +1,7 @@
 # Engineering Mathematics-II (MA-102)
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
+
 Assignment on **Vector Calculus** and **Laplace Transformation**
 
 ### Submitted files:
